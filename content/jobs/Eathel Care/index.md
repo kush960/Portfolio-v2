@@ -1,6 +1,6 @@
 ---
 date: '2020-12-04'
-title: 'Engineer'
+title: 'Intern - Laravel Developer'
 company: 'Eathrl Care'
 location: 'London, U.K.'
 range: 'December 2020 - January 2021'
