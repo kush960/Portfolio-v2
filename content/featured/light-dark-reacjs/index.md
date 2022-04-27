@@ -9,4 +9,4 @@ tech:
 showInProjects: true
 ---
 
-It is an web application that was built with the ReactJs. This webpage has been created to get an overview that how a management for the petrolpump works.
+It is an web application that was built with the ReactJs. This webpage has been created check that how we are able to update theme in a certain page from light to dark and vice-versa just by a click. Also we are able to set he dark theme color on our own.
