@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'Pizza Shop-React App'
 cover: './pizza-shop-reactjs.png'
 github: 'https://github.com/kush960/pizza-shop-react'

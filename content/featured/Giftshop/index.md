@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'GiftShop'
 cover: './Giftshop.png'
 github: 'https://github.com/kush960/giftshop'
