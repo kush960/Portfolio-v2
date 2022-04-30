@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Light to dark Theme Update-ReactJs'
 cover: './light-dark-theme-reactjs.png'
 github: 'https://github.com/kush960/light-dark-theme-reactJs'
