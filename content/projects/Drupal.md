@@ -5,7 +5,7 @@ github: ''
 external: 'https://www1.citibank.com.sg/credit-cards/other-services/overseas-usage?tab=overseas-usage'
 tech:
   - Drupal
-showInProjects: true
+showInProjects: false
 ---
 
 A Drupal page made to check the offers and services for Citibank overseas credit cards.
